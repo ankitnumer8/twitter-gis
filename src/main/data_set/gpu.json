@@ -1,0 +1,66 @@
+[  
+   {  
+      "core":"",
+      "numofGPU":"",
+      "os":"",
+      "regionCode":"",
+      "vcpu":"",
+      "country":"US",
+      "company":"Amazon",
+      "ram":"",
+      "storage":"",
+      "region":"us-east-2",
+      "cpu":"",
+      "instance":"eg1.medium",
+      "spotPricing":[  
+
+      ],
+      "continent":"NA",
+      "logo":"http://62.210.100.210:8099/aws.png",
+      "memory":"1 GiB",
+      "normalPricing":[  
+         {  
+            "timing":"hourly",
+            "currency":"$",
+            "rate":0.05
+         }
+      ],
+      "gpu":"",
+      "preemptivePricing":[  
+
+      ],
+      "instanceType":"on-demand"
+   },
+   {  
+      "core":"",
+      "numofGPU":"",
+      "os":"",
+      "regionCode":"",
+      "vcpu":"",
+      "country":"US",
+      "company":"Amazon",
+      "ram":"",
+      "storage":"",
+      "region":"us-east-1",
+      "cpu":"",
+      "instance":"eg1.medium",
+      "spotPricing":[  
+
+      ],
+      "continent":"NA",
+      "logo":"http://62.210.100.210:8099/aws.png",
+      "memory":"1 GiB",
+      "normalPricing":[  
+         {  
+            "timing":"hourly",
+            "currency":"$",
+            "rate":0.05
+         }
+      ],
+      "gpu":"",
+      "preemptivePricing":[  
+
+      ],
+      "instanceType":"on-demand"
+   }
+]

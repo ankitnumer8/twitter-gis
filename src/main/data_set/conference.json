@@ -1,0 +1,45 @@
+[  
+   {  
+      "startDate":"2019-06-15T00:00-00:00",
+      "endDate":"2019-06-21T00:00-00:00",
+      "eventDescription":"",
+      "twitter":"",
+      "eventUrl":"http://cvpr2019.thecvf.com/",
+      "linkedin":"",
+      "images":[  
+
+      ],
+      "logo":"http://cvpr2019.thecvf.com/images/CVPRLogo.jpg",
+      "title":"CVPR : IEEE Conference on Computer Vision and Pattern Recognition, CVPR",
+      "eventLocation":{  
+         "city":"",
+         "streetAddress":"",
+         "name":"",
+         "fullAddress":"Long Beach , United States",
+         "country":""
+      },
+      "latitude":33.7700504,
+      "events":[  
+
+      ],
+      "website":"http://cvpr2019.thecvf.com/",
+      "ranking":"1",
+      "description":"",
+      "tags":[  
+         {  
+            "tagId":"91ef47c58c7f8a8497eef288c3651bf2",
+            "tag":"Computer Vision And Pattern Recognition"
+         }
+      ],
+      "hindex":"158",
+      "facebook":"https://www.facebook.com/CVPR2019",
+      "members":"",
+      "eventTitle":"CVPR : IEEE Conference on Computer Vision and Pattern Recognition, CVPR",
+      "publisher":"IEEE",
+      "url":"http://www.guide2research.com/topconf/computer-vision",
+      "longitude":-118.1937395,
+      "eventImages":[  
+
+      ]
+   }
+]

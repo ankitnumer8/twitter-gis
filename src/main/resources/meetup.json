@@ -1,0 +1,72 @@
+PUT _template/meetup_index
+{
+  "template": "meetup_template",
+  "settings": {
+    "index.requests.cache.enable": true,
+    "index.mapping.ignore_malformed": true,
+    "index": {
+      "refresh_interval": "-1",
+      "analysis": {
+        "filter": {
+          "word_delimiter_filter": {
+            "type": "word_delimiter",
+            "preserve_original": true,
+            "split_on_numerics": false,
+            "split_on_case_change": false,
+            "type_table": "- => ALPHANUM"
+          },
+          "nGram_filter": {
+            "type": "nGram",
+            "min_gram": 2,
+            "max_gram": 20,
+            "token_chars": [
+              "letter",
+              "digit",
+              "punctuation",
+              "symbol"
+            ]
+          }
+        },
+        "analyzer": {
+          "lowercase_analyzer": {
+            "filter": [
+              "lowercase"
+            ],
+            "tokenizer": "whitespace"
+          },
+          "nGram_analyzer": {
+            "type": "custom",
+            "tokenizer": "whitespace",
+            "filter": [
+              "lowercase",
+              "asciifolding",
+              "nGram_filter"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "mappings": {
+    "meetup_index": {
+      "dynamic_templates": [
+        {
+          "nested_events": {
+            "match": "events_*",
+            "mapping": {
+              "type": "nested"
+            }
+          }
+        },
+        {
+          "nested_events_template": {
+            "path_match": "events_*.*tude*",
+            "mapping": {
+              "type": "geo_point"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

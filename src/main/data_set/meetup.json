@@ -1,0 +1,134 @@
+[  
+   {  
+      "startDate":"2018-11-28T08:00-08:00",
+      "endDate":"2018-11-29T17:00-08:00",
+      "eventDescription":"The IoT Tech Expo North America will bring together key industries from across North America and beyond for 2 days of top level content and discussion. Exploring the latest innovations within the Internet of Things covering its impact on many industries.\n\nTaking place in the heart of Silicon Valley on November 28-29, the 3rd annual North America event will host 3 co-located events covering Cyber Security & Cloud, AI & Big Data and Blockchain, with 13,000 attendees expected including IT decision ",
+      "eventLocation":{  
+         "city":"Santa Clara",
+         "streetAddress":"5001 Great America Parkway",
+         "name":"Santa Clara Convention Center",
+         "fullAddress":"",
+         "country":"USA"
+      },
+      "twitter":"",
+      "eventUrl":"https://www.meetup.com/Silicon-Valley-IoT-Meetup/events/254583574/",
+      "linkedin":"",
+      "sponsor":[  
+
+      ],
+      "images":[  
+         "https://secure.meetupstatic.com/photos/event/d/4/6/600_447183398.jpeg"
+      ],
+      "logo":"",
+      "title":"Silicon Valley IoT Meetup",
+      "location":"Cupertino, CA",
+      "latitude":37.4036,
+      "eventImages":[  
+
+      ],
+      "website":"",
+      "ranking":"",
+      "description":"Join us and global technology leaders as we explore the Internet of Things to discover how enterprises can quickly leverage innovative technologies to create new opportunities and growth. This Meetup is committed to bringing together tech and business luminaries to share deep insights into the IoT, Big Data, and analytics. If you dig disruptive technology and innovation then join our Meetup as we organize informative webinars and live discussions where you can network and learn how IoT is changing the game! #SVIoT ========================================================================= Thank you for your support! Yes! We do offer a sponsorship opportunity. Branding Sponsor: We\u2019ll list your company name and logo on our meetup main page and include a mention on the meetup announcement. If you would like to sponsor for multiple contiguous months you'll receive the following special discount: 3MONTHS - 10% off for three straight months of sponsorship. Minimum three month purchase 6MONTHS - 20% off for six straight months of sponsorship. Minimum three month purchase Connect with us for more information! ===========================================================================",
+      "tags":[  
+         {  
+            "tagId":"a816689d3d8dc23a15c739c3b1d94715",
+            "tag":"Internet Of Things"
+         }
+      ],
+      "hindex":"",
+      "facebook":"",
+      "members":"2,643",
+      "eventTitle":"IoT Tech Expo North America 2018",
+      "publisher":"",
+      "url":"https://www.meetup.com/Silicon-Valley-IoT-Meetup/",
+      "longitude":-121.977
+   },
+   {  
+      "startDate":"2018-10-17T19:30+05:30",
+      "endDate":"2018-10-17T21:30+05:30",
+      "eventDescription":"This program is for Anyone wanting to get started into IoT by understanding basics from scratch through Hands-on learning. This will be a program with Hands-On on Weekends.\n\nThis is a 20 hours Paid program for creating a foundation for Internet of Things (IoT)covering IoT architectural elements, Pushing data to cloud- also covers Basic Electronics concepts needed for IoT, Microcontrollers, Sensors, Wireless, Python, Cloud computing & Open Source .\n\nPlease RSVP with Phone Number & Email ID to get",
+      "eventLocation":{  
+         "city":"Hyderabad",
+         "streetAddress":"TBA",
+         "name":"To be confirmed( Madhapur/ Online Interactive)",
+         "fullAddress":"",
+         "country":"India"
+      },
+      "twitter":"",
+      "eventUrl":"https://www.meetup.com/iot-electronics-hyderabad/events/254645438/",
+      "linkedin":"",
+      "sponsor":[  
+
+      ],
+      "images":[  
+         "https://secure.meetupstatic.com/photos/event/4/8/9/0/600_464598576.jpeg"
+      ],
+      "logo":"",
+      "title":"IoT, Electronics, Data Science & Cybersecurity - HYDERABAD",
+      "location":"Hyderabad, India",
+      "latitude":17.38504,
+      "eventImages":[  
+
+      ],
+      "website":"",
+      "ranking":"",
+      "description":"This is a group for everyone interested to explore, learn and innovate with Internet of Things (IoT), Electronics, Data Science & CyberSecurity . Visit:  www.nexiot.com  ( http://www.nexiot.com/ ) ( http://www.nexiot.com  ( http://www.nexiot.com/ )) Join us at our facebook & linkedin groups for latest Technology, Industry & Career Updates! Facebook :  https://www.facebook.com/groups/NexiotCommunity LinkedIn :  https://www.linkedin.com/groups/10309642 Careers- Jobs Group :  https://www.facebook.com/groups/dsiotcareers  (  https://www.facebook.com/groups/dsiotcareers/  ) We will have activities & programs covering basics to advanced areas in Building Internet of Things (IoT) solutions, Applied Cybersecurity, IoT Security, Application Development for IoT, Data Science , IoT Platforms, Machine learning, Embedded systems design , Open source for hardware & software, Wireless technologies, Microcontrollers, Sensors, Gateways, PCB design , DIY solutions, Industry 4.0, Sustainability & environmental IoT, Building prototypes, manufacturing strategy, market trends & opportunities and more... Like us for Technology Updates:  https://www.facebook.com/nexiotcommunity",
+      "tags":[  
+         {  
+            "tagId":"a816689d3d8dc23a15c739c3b1d94715",
+            "tag":"Internet Of Things"
+         }
+      ],
+      "hindex":"",
+      "facebook":"",
+      "members":"2,660",
+      "eventTitle":"IoT Foundation Program: IoT Basics, Architecture & Applications(PAID)",
+      "publisher":"",
+      "url":"https://www.meetup.com/iot-electronics-hyderabad/",
+      "longitude":78.48669
+   },
+   {  
+      "startDate":"2018-10-03T17:50-05:00",
+      "endDate":"2018-10-03T20:00-05:00",
+      "eventDescription":"TiDB is an open source distributed scalable hybrid transactional\nand analytical processing (HTAP) database built by PingCAP. It also\nspeaks the MySQL protocol and uses RocksDB as the underlying storage\nengine!\n\nThis talk provides an introduction and overview of TiDB, tailored for\nthose with a strong background in MySQL. I will use MySQL as an\nexample to explain various implementation details of TiDB, and\ntranslate terminology to MySQL/InnoDB terms.\n\nSpeaker Bio:\n\nMorgan Tocker is a Senior Produc",
+      "eventLocation":{  
+         "city":"Chicago",
+         "streetAddress":"111 N. Canal Suite 800",
+         "name":"Vivid Seats",
+         "fullAddress":"",
+         "country":"USA"
+      },
+      "twitter":"",
+      "eventUrl":"https://www.meetup.com/Chicago-SQL/events/254658878/",
+      "linkedin":"",
+      "sponsor":[  
+
+      ],
+      "images":[  
+         "https://secure.meetupstatic.com/photos/event/9/f/a/2/600_455200866.jpeg"
+      ],
+      "logo":"",
+      "title":"Chicago SQL - The SQL, NoSQL, & NewSQL Database Meetup",
+      "location":"Chicago, IL",
+      "latitude":41.8800,
+      "eventImages":[  
+
+      ],
+      "website":"",
+      "ranking":"",
+      "description":"The Chicago SQL Meetup (User group) brings together today's best database technologies. It's a place for people of all skill levels to share and learn. Some of the technologies we discuss include: \u2022 SQL Databases: MySQL, MariaDB, PostgreSQL, Oracle, SQL Server \u2022 NoSQL: MongoDB, Cassandra, CouchDB, Redis, HBase, Riak \u2022 Search: Elasticsearch, Solr, Sphinx \u2022 NewSQL: Google Spanner, Clustrix, VoltDB, MemSQL \u2022 Cloud: AWS RDS, DynamoDB, Cloud Bigtable, Cloud SQL, Cloud Datastore Graph Databases: Neo4j, OrientDB, Titan",
+      "tags":[  
+         {  
+            "tagId":"e19e98a669ae21f94ffd1659998fd072",
+            "tag":"Data Analytics"
+         }
+      ],
+      "hindex":"",
+      "facebook":"",
+      "members":"1,827",
+      "eventTitle":"TiDB: Distributed, horizontally scalable, MySQL compatible",
+      "publisher":"",
+      "url":"https://www.meetup.com/Chicago-SQL/",
+      "longitude":-87.6399
+   }
+]

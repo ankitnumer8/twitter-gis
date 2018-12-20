@@ -1,0 +1,54 @@
+[  
+   {  
+      "name":"Daoshun Wang",
+      "tags":{  
+         "_id":"7496972",
+         "tags":[  
+            {  
+               "tagId":"91ef47c58c7f8a8497eef288c3651bf2",
+               "tag":"Computer Vision And Pattern Recognition"
+            },
+            {  
+               "tagId":"0f5db5d05a3613e7f42218cfe9ef2d43",
+               "tag":"Cryptography And Security"
+            }
+         ]
+      },
+      "hIndex":10.0,
+      "authId":"7496972",
+      "email":"daoshun@mail.tsinghua.edu.cn",
+      "citations":693,
+      "_id":"7496972",
+      "homepage":[  
+
+      ],
+      "image":"https://scholar.google.com/citations?view_op=view_photo&user=5Bu6aSMAAAAJ&citpid=1",
+      "influentialCitationCount":38
+   },
+   {  
+      "name":"Feng Yi",
+      "tags":{  
+         "_id":"49617493",
+         "tags":[  
+            {  
+               "tagId":"91ef47c58c7f8a8497eef288c3651bf2",
+               "tag":"Computer Vision And Pattern Recognition"
+            },
+            {  
+               "tagId":"0f5db5d05a3613e7f42218cfe9ef2d43",
+               "tag":"Cryptography And Security"
+            }
+         ]
+      },
+      "hIndex":6.0,
+      "authId":"49617493",
+      "email":"",
+      "citations":143,
+      "_id":"49617493",
+      "homepage":[  
+
+      ],
+      "image":"",
+      "influentialCitationCount":13
+   }
+]

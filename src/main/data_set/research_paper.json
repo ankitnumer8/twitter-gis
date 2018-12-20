@@ -1,0 +1,82 @@
+[
+{ 
+    "arxivId" : "0812.2309",
+    "description" : "Abstract: Counting and classifying blood cells is an important diagnostic tool in\nmedicine. Support Vector Machines are increasingly popular and efficient and\ncould replace artificial neural network systems. Here a method to classify\nblood cells is proposed using SVM. A set of statistics on images are\nimplemented in C++. The MPEG-7 descriptors Scalable Color Descriptor, Color\nStructure Descriptor, Color Layout Descriptor and Homogeneous Texture\nDescriptor are extended in size and combined with textural features\ncorresponding to textural properties perceived visually by humans. From a set\nof images of human blood cells these statistics are collected. A SVM is\nimplemented and trained to classify the cell images. The cell images come from\na CellaVision DM-96 machine which classify cells from images from microscopy.\nThe output images and classification of the CellaVision machine is taken as\nground truth, a truth that is 90-95% correct. The problem is divided in two --\nthe primary and the simplified. The primary problem is to classify the same\nclasses as the CellaVision machine. The simplified problem is to differ between\nthe five most common types of white blood cells. An encouraging result is\nachieved in both cases -- error rates of 10.8% and 3.1% -- considering that the\nSVM is misled by the errors in ground truth. Conclusion is that further\ninvestigation of performance is worthwhile.", 
+    "tags" : [
+        {
+            "tagId" : "36877", 
+            "tag" : "MPEG-7"
+        }, 
+        {
+            "tagId" : "549941", 
+            "tag" : "Symbian"
+        }, 
+        {
+            "tagId" : "8915", 
+            "tag" : "Support vector machine"
+        }, 
+        {
+            "tagId" : "36875", 
+            "tag" : "Color layout descriptor"
+        }, 
+        {
+            "tagId" : "6213", 
+            "tag" : "Artificial neural network"
+        }, 
+        {
+            "tagId" : "33313", 
+            "tag" : "Ground truth"
+        }, 
+        {
+            "tagId" : "8192", 
+            "tag" : "C++"
+        }, 
+        {
+            "tagId" : "14347", 
+            "tag" : "Mathematical morphology"
+        }, 
+        {
+            "tagId" : "497660", 
+            "tag" : "Brownfield (software development)"
+        }, 
+        {
+            "tagId" : "201671", 
+            "tag" : "Detection error tradeoff"
+        }, 
+        {
+            "tagId" : "1024862", 
+            "tag" : "AV-TEST"
+        }
+    ], 
+    "dd" : "12", 
+    "journalReference" : "", 
+    "yyyy" : "2008", 
+    "reportNumber" : "ISSN 1651-6389", 
+    "authors" : [
+        {
+            "name" : "Tobias Abenius", 
+            "authId" : "3331378"
+        }
+    ], 
+    "researchId" : "arXiv:0812.2309", 
+    "influentialCitations" : 0, 
+    "doi" : "", 
+    "title" : "Classification Of Cell Images Using Mpeg-7-Influenced Descriptors And Support Vector Machines In Cell Morphology", 
+    "url" : "https://arxiv.org/abs/0812.2309", 
+    "citations" : 1, 
+    "arxivId" : "0812.2309", 
+    "venue" : "CoRR", 
+    "submissionHistory" : "Submission history\nFrom: Tobias Abenius [view email]\n\n[v1] Fri, 12 Dec 2008 08:27:02 GMT  (501kb)", 
+    "comments" : "For associated files and erratum, see", 
+    "mm" : "12", 
+    "subjects" : [
+        "Applications (stat.AP)", 
+        " Computer Vision and Pattern Recognition (cs.CV)", 
+        " Machine Learning (stat.ML)"
+    ], 
+    "pdfid" : "pdf0812.2309", 
+    "pdf" : "https://arxiv.org/pdf/0812.2309.pdf", 
+    "archiveYear" : "08", 
+    "dateline" : "(Submitted on 12 Dec 2008)"
+}
+]
